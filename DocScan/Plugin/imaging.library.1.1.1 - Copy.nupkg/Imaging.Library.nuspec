@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Imaging.Library</id>
+    <version>1.1.1</version>
+    <title>PCL Imaging Library for Document Scanning</title>
+    <authors>Engin KIRMACI</authors>
+    <owners>Engin KIRMACI</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/enginkirmaci/Imaging-Library</projectUrl>
+    <description>PCL Imaging Library for Document Scanning, contains Canny edge detection, Blob counter, quadrilateral transformation and many more.
+      Check samples in github how to convert from/to pixel map to iOS or Android image.
+      This package is compatible with the following .net platforms: net45+dnxcore50+win8+Xamarin.Android+Xamarin.iOS+Xamarin.Mac</description>
+    <releaseNotes>Xamarin support increased.
+Added new method for PixelMap to return as byte array.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Imaging Canny Blob Quadrilateral Document Scan Houghline Sobel Bicubic Otsu Threshold</tags>
+  </metadata>
+</package>
